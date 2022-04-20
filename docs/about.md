@@ -1,6 +1,6 @@
 ---
 sidebar: auto
-navbar: true
+title: asdaf
 ---
 # dick
 
