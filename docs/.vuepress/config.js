@@ -28,6 +28,7 @@ module.exports = {
         ]
       },
       
-    ]
+    ],
+    lastUpdated: 'Last Updated', // string | boolean
   }
 }
