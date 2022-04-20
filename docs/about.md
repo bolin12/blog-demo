@@ -1,5 +1,13 @@
 ---
-navbar: false
+sidebar: auto
+navbar: true
 ---
-dd
 # dick
+
+## 一级标题
+## 一级标题
+### 二级标题
+## 一级标题
+## 一级标题
+## 一级标题
+## 一级标题

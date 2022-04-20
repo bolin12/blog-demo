@@ -17,6 +17,11 @@ module.exports = {
         ]
       },
       { text: 'External', link: 'https://google.com' },
+    ],
+    sidebar: [
+      '/',
+      '/page-a',
+      ['/page-b', 'Explicit link text']
     ]
   }
 }
