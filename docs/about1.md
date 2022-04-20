@@ -1,8 +1,9 @@
 ---
-sidebar: auto
+navbar: true
 title: ddsdsd
 ---
-dick1
+
+# dick1
 
 ## 一级标题
 ## 一级标题
