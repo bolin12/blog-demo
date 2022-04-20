@@ -1,4 +1,5 @@
 module.exports = {
+  base: "/blog-demo/",
   title: "Kobayashi's Blog",
   desctrption: "something trival",
   head: [
